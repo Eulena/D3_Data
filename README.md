@@ -8,7 +8,7 @@ This project/homework provides an analysis and visulization of healthcare risks 
 
 [View My Website](https://eulena.github.io/D3_Data/)
 
-## The following steps were completed to accomplish the project:
+## The following steps were completed to accomplish the homework:
 
 ### Step 1: Data Source for ETL development
 
