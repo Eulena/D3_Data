@@ -23,5 +23,6 @@ This project/homework provides an analysis and visulization of healthcare risks 
   
   * Created an animation for data transitions for each axis.
   
-  #### Images from the final app
+  #### Screenshot of Launched Webpage
+  
 ![final_app_part1.png](images/D3_1.PNG)
