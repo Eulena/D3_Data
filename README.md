@@ -1,3 +1,7 @@
+## Submitted By: Monica Zulueta-Linsangan
+## Date: July 6, 2019
+
+
 # Data Journalism and D3
 
 This project/homework provides an analysis and visulization of healthcare risks in the United States.
