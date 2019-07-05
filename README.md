@@ -7,7 +7,7 @@
 This project/homework provides an analysis and visulization of healthcare risks in the United States.
 
 [View My Website](https://eulena.github.io/D3_Data/)
-## NOTE: When hovering over by state, wait for the cursor to become an "arrow", then data will display.
+__NOTE:__ When hovering over by state, wait for the cursor to become an "arrow", then data will display.
 
 ## The following steps were completed to accomplish the homework:
 
