@@ -16,7 +16,7 @@ This project/homework provides an analysis and visulization of healthcare risks 
   
   * Data from the [Behavioral Risk Factor Surveillance System](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/BRFSS-2014-Overall/5ra3-ixqq)
   
-  * Combined and clean-up the two datasets.
+  * Combined and cleaned-up the two datasets.
   
 ### Step 2: Data visulization 
   * Created a scatter plot by d3.js for visualization.
